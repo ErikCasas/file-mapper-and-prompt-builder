@@ -1,0 +1,110 @@
+El contenido de component.jsx es:
+
+const Component = () => {
+    console.log("Este es un componente")
+  return (
+    <div>Component</div>
+  )
+}
+export default Component
+
+El contenido de contex.js es:
+
+console.log("sin pretexto")
+
+El contenido de provider.json es:
+
+{
+    "message": "lectura de un JSON"
+}
+
+El contenido de hook.js es:
+
+console.log("Este es el arch de hooks")
+
+El contenido de index.js es:
+
+console.log("estes es el index.js")
+
+El contenido de other.js es:
+
+console.log("este es el otro archivio")
+
+El contenido de page1.js es:
+
+console.log("esta es la pagina N1")
+
+El contenido de page2.js es:
+
+console.log("esta es la pagina N2")
+
+test/
+│   components/
+│   ├── component.jsx
+│   │   hooks/
+│   │   │   context/
+│   │   │   ├── contex.js
+│   │   │   ├── provider.json
+│   │   ├── hook.js
+├── index.js
+├── other.js
+│   pages/
+│   ├── page1.js
+│   ├── page2.js
+El contenido de component.jsx es:
+
+const Component = () => {
+    console.log("Este es un componente")
+  return (
+    <div>Component</div>
+  )
+}
+export default Component
+
+El contenido de contex.js es:
+
+console.log("sin pretexto")
+
+El contenido de provider.json es:
+
+{
+    "message": "lectura de un JSON"
+}
+
+El contenido de hook.js es:
+
+console.log("Este es el arch de hooks")
+
+El contenido de index.js es:
+
+console.log("estes es el index.js")
+
+El contenido de other.js es:
+
+console.log("este es el otro archivio")
+
+El contenido de page1.js es:
+
+console.log("esta es la pagina N1")
+
+El contenido de page2.js es:
+
+console.log("esta es la pagina N2")
+
+
+
+ esta es la estructura del proyecto 
+
+ test/
+│   components/
+│   ├── component.jsx
+│   │   hooks/
+│   │   │   context/
+│   │   │   ├── contex.js
+│   │   │   ├── provider.json
+│   │   ├── hook.js
+├── index.js
+├── other.js
+│   pages/
+│   ├── page1.js
+│   ├── page2.js
